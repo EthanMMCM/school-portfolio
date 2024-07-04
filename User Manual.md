@@ -92,5 +92,5 @@ its quantity or delete it from the plan.`
 
 ```Saving Your Meal Plan: After finalizing your meal selections, tap on the save icon or option provided within the meal plan view. This action will save your current meal plan for future reference or sharing.```
 
-You have now learned how to use CraveCompass, If you haven't already please feel free to learn about our prototype it would be much appreciated, Enjoy using CraveCompass.
+**You have now learned how to use CraveCompass. If you haven't already, please feel free to explore our prototype. Your feedback would be greatly appreciated. Enjoy using CraveCompass!**<br>
 [Table Of Contents](#table-of-contents)
