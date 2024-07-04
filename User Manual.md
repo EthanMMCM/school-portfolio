@@ -63,20 +63,34 @@ Permissions: 4G Data, Storage Permissions, Notification Permissions<br>
 
 ## Program Flow
 
-***Opening Program***<br>
-Opening the application greeted by a splash screen and a get started button proceeding to the Menu.<br>
+***Opening the Application***
 
-***Searching Item***<br>
-Accessed by clicking the search button on the navigation buttons at the bottom or clicking the search bar at the top of the menu.<br>
+`Splash Screen and Get Started Button: When you open the application, you'll see a splash screen followed by a "Get Started" button. Tap this button to proceed to the main menu.`
 
-***Viewing Food Map***<br>
-Accessed by clicking the map photo on the menu.<br>
+***Searching for Items***
 
-***Adding to Meal Plan***<br>
-Accessed by clicking the Food map or the available food, scrolling down to see nearby establishments, clicking preferred, and adding to the meal plan through the pop-up.<br>
+`Using the Search Function: To search for specific items, tap the search button in the navigation menu at the bottom or use the search bar located at the top of the menu.`
 
-***Viewing Meal Plan***<br>
-Accessed through the ribbon icon beside the check-out icon.<br>
+***Viewing the Food Map***
 
-***Editing Meal Plan***<br>
-Same process as viewing the meal plan but includes an additional step of tapping the item to edit quantity or delete.<br>
+`Accessing the Food Map: Click on the map photo within the menu to view the food map, which displays nearby establishments and their menus.`
+
+***Adding Items to Your Meal Plan***
+
+`Adding to Your Meal Plan: From the food map or by selecting available food items, scroll down to view nearby establishments. Tap on your preferred option and then add it to your meal plan using the pop-up prompt.`
+
+***Viewing Your Meal Plan***
+
+`Accessing Your Meal Plan: To view your meal plan, tap on the ribbon icon located beside the checkout icon in the menu.`
+
+***Editing Your Meal Plan***
+
+`Editing Your Meal Plan: To make changes to your meal plan, follow the same steps as viewing it. Additionally, tap on any item within the meal plan to edit 
+its quantity or delete it from the plan.`
+
+***Saving Your Meal Plan***
+
+```Saving Your Meal Plan: After finalizing your meal selections, tap on the save icon or option provided within the meal plan view. This action will save your current meal plan for future reference or sharing.```
+
+You have now learned how to use CraveCompass, If you haven't already please feel free to learn about our prototype it would be much appreciated, Enjoy using CraveCompass.
+[Table Of Contents](#table-of-contents)
