@@ -94,4 +94,4 @@ its quantity or delete it from the plan.`
 
 **You have now learned how to use CraveCompass. If you haven't already, please feel free to explore our prototype. Your feedback would be greatly appreciated. Enjoy using CraveCompass!**<br>
 
-[Table Of Contents](#table-of-contents)
+Back to the [Table Of Contents](#table-of-contents)
